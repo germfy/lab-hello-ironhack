@@ -1,0 +1,68 @@
+.App {
+    margin: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Subtitle{
+color: white;
+margin-bottom: 5vh;
+margin-left: 5vw;
+}
+.Title{
+    margin-top: 15vh;
+    margin-left: 5vw;
+    color: white;
+    font-size: 10vh;
+    font-weight: bolder;
+
+}
+.General{
+    min-height: 100%;
+  min-width: 100%;
+	
+  /* Set up proportionate scaling */
+  width: 100%;
+  height: auto;
+	
+  /* Set up positioning */
+  position: fixed;
+  top: 0;
+  left: 0;
+    background: black;
+    
+}
+.first{
+    min-height: 70%;
+  min-width: 80%;
+	
+  /* Set up proportionate scaling */
+  width: 80%;
+  height: auto;
+    margin-left: 10vw;
+    margin-right: 10vw;
+  /* Set up positioning */
+  
+  top: 0;
+  left: 0;
+    background-color: #6DB3F2;
+    background: rgb(22, 26, 65) url(../public/react-logo.svg);
+}
+
+.ButtonAwesome{
+    margin-left: 5vw;
+}
+
+.Foot{
+    min-height: 70%;
+  min-width: 80%;
+	
+  /* Set up proportionate scaling */
+  width: 80%;
+  height: auto;
+    margin-left: 22vw;
+    margin-right: 10vw;
+  /* Set up positioning */
+  
+  top: 0;
+  left: 0;
+    
+}
